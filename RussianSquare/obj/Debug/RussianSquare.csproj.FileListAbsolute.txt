@@ -1,0 +1,9 @@
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\bin\Debug\RussianSquare.exe.config
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\bin\Debug\RussianSquare.exe
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\bin\Debug\RussianSquare.pdb
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\obj\Debug\RussianSquare.csprojResolveAssemblyReference.cache
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\obj\Debug\RussianSquare.Form1.resources
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\obj\Debug\RussianSquare.Properties.Resources.resources
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\obj\Debug\RussianSquare.csproj.GenerateResource.Cache
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\obj\Debug\RussianSquare.exe
+F:\PROJECT\VS_WinForm\RussianSquare\RussianSquare\obj\Debug\RussianSquare.pdb
